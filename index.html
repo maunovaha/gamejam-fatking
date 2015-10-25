@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FATKING - Global game jam 2013 entry</title>
+		<link href="assets/css/demoStyles.css" rel="stylesheet" type="text/css" />
+		<script src="lib/soundjs-0.3.0.min.js" type="text/javascript"></script>
+		<script src="lib/preloadjs-0.2.0.min.js" type="text/javascript"></script>
+		<script src="lib/easeljs-0.5.0.min.js" type="text/javascript"></script>
+		<script src="assets/js/monster.js" type="text/javascript"></script>
+		<script src="assets/js/player.js" type="text/javascript"></script>
+		<script src="assets/js/tree.js" type="text/javascript"></script>
+    <script src="assets/js/main.js" type="text/javascript"></script>
+</head>
+<body onload="init()">
+  <canvas id="gameCanvas" width="640" height="480" class="gameplay-bg-class"></canvas>
+  <canvas id="foregroundCanvas" width="640" height="480" class="gameplay-fore-bg-class"></canvas>
+  <div id="game-over" class="hidden">
+		<h1>GAME OVER</h1>
+		<h3>Score: <b id="last-score"></b></h3>
+	</div>
+  <div class="hr-wrapper">
+    <div id="hr-pointer"></div>
+		<div class="hr-zone">
+			<p><strong>171 &#045; 190</strong> bpm<br /><span style="color: #ff0000;"><strong>DANGER !!!</strong></span></p>
+		</div>
+		<div class="hr-zone">
+			<p><strong>152 &#045; 172</strong> bpm</p>
+		</div>
+		<div class="hr-zone">
+			<p><strong>133 &#045; 152</strong> bpm</p>
+		</div>
+		<div class="hr-zone">
+			<p><strong>114 &#045; 133</strong> bpm</p>
+		</div>
+		<div class="hr-zone">
+			<p><strong>104 &#045; 114</strong> bpm</p>
+		</div>
+	</div>
+</body>
+</html>
