@@ -4,7 +4,7 @@ Simple 2d game in which you are a "fatking" eating creatures of the forest.
 
 This game is developed for global gamejam 2013 within 48 hours.
 
-![Screenshot](http://maunovaha.com/assets/images/games/fatking_1.png)
+![Screenshot](/fatking.jpg)
 
 
 ### Play
