@@ -6,25 +6,16 @@ This game is developed for global gamejam 2013 within 48 hours.
 
 ![Screenshot](/fatking.jpg)
 
-
-### Play
-
-This game can be played at [gamejolt](http://gamejolt.com/games/fatking/104169).
-
-
-### Credits
+## Credits
 
 * Mauno Vähä (Programming)
 * Esa Hiltunen (Graphics)
 * Sami Mylly (Random stuff/some coding)
 
+## Contact
 
-### Contact
+If you have any questions regarding this repository, start by reaching me using contact information below.
 
-If you have any questions regarding this game or license, start by reaching me using contact information below.
-
-Website: http://maunovaha.com
-
-Email: maunovaha[at]gmail.com
-
-Twitter: @maunovaha
+- [maunovaha.com](http://maunovaha.com)
+- [@maunovaha](https://twitter.com/maunovaha) (twitter)
+- maunovaha[at]gmail.com
