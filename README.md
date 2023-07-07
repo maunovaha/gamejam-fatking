@@ -11,11 +11,3 @@ This game is developed for global gamejam 2013 within 48 hours.
 * Mauno Vähä (Programming)
 * Esa Hiltunen (Graphics)
 * Sami Mylly (Random stuff/some coding)
-
-## Contact
-
-If you have any questions regarding this repository, start by reaching me using contact information below.
-
-- [maunovaha.com](http://maunovaha.com)
-- [@maunovaha](https://twitter.com/maunovaha) (twitter)
-- maunovaha[at]gmail.com
